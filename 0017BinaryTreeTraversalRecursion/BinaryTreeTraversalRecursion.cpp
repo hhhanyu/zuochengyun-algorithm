@@ -54,15 +54,15 @@ int main() {
 
     preOrder(head);
     cout << endl;
-    cout << "先序遍历递归版" << endl;
+    cout << endl;
 
     inOrder(head);
     cout << endl;
-    cout << "中序遍历递归版" << endl;
+    cout << endl;
 
     posOrder(head);
     cout << endl;
-    cout << "后序遍历递归版" << endl;
+    cout << endl;
 
     // 释放内存（略，简单测试可忽略）
 
